@@ -11,11 +11,12 @@ Right now, I'm deeply involved in projects centered around Analytics, Business I
 I'm enthusiastic about collaborating on stimulating analytics projects. Don't hesitate to contact me with your ideas!
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=kieutrinhtran&show_icons=true&count_private=true"><img
-           height=150
+   <a href="https://github-readme-stats.vercel.app/api?username=kieutrinhtran&show_icons=true&count_private=true">
+      <img height=170 
            src="https://github-readme-stats.vercel.app/api?username=kieutrinhtran&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/kieutrinhtran/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutrinhtran&layout=compact"/></a>
+   <!-- <a href="https://github.com/kieutrinhtran/github-readme-stats">
+      <img height=150 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutrinhtran&layout=compact"/></a> -->
 </p>
 
 ## ✨Contact
