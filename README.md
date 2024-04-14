@@ -12,7 +12,7 @@ I'm enthusiastic about collaborating on stimulating analytics projects. Don't he
 ## ✨Contact
 Let's connect and explore opportunities together:
 - 📫 You can reach me via email at kieutrinhtran2212@gmail.com
-- 📫 Connect with me on LinkedIn<br><br>
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kieutrinhtran/) <br><br>
 Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you!
 <!--
 **kieutrinhtran/kieutrinhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
