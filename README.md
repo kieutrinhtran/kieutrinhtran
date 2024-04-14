@@ -12,11 +12,11 @@ I'm enthusiastic about collaborating on stimulating analytics projects. Don't he
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=kieutrinhtran&show_icons=true&count_private=true">
-      <img height=170 
-           src="https://github-readme-stats.vercel.app/api?username=kieutrinhtran&show_icons=true&count_private=true"/></a>
-   <!-- <a href="https://github.com/kieutrinhtran/github-readme-stats">
       <img height=150 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutrinhtran&layout=compact"/></a> -->
+           src="https://github-readme-stats.vercel.app/api?username=kieutrinhtran&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/kieutrinhtran/github-readme-stats">
+      <img height=150 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutrinhtran&layout=compact"/></a> 
 </p>
 
 ## ✨Contact
