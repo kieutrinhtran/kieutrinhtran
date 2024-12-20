@@ -8,7 +8,7 @@ My passion for unraveling insights from data has sparked a fire within me.
 I am eagerly looking forward to applying my skills and adding value to the rapidly evolving landscape of data analysis.
 
 ## ✨Interests
-Right now, I'm deeply involved in projects centered around Analytics, Business Intelligence, and Machine Learning. 
+Right now, I'm deeply involved in projects centered around Analytics and Business Intelligence. 
 I'm enthusiastic about collaborating on stimulating analytics projects. Don't hesitate to contact me with your ideas!
 
 ## ✨Contact
