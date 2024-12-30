@@ -1,5 +1,5 @@
 # Hi there, I'm Trinh (Kirstin) Tran 👋
-<p align="center"><em> I'm currently a Sophomore in MIS with a Business Information Systems (BIS) Minor <br> at University of Economics Ho Chi Minh City (UEH). I am interested in Business Intelligence, Data Analysis, and Business Analysis. </em></p>
+<p align="center"><em> I'm currently a third-year student in Business Information Systems (BIS) at University of Economics Ho Chi Minh City (UEH). I am interested in Business Intelligence, Data Analysis, and Business Analysis. </em></p>
 
 ## ✨About Me
 I am an aspiring data analyst driven by the desire to make a meaningful contribution in this dynamic field.
