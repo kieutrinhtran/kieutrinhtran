@@ -1,4 +1,4 @@
-### Hi there, I'm Trinh (Kirstin) Tran 👋
+### <p align="center"> Hi there, I'm Trinh (Kirstin) Tran 👋
 <p align="center"><em> I'm currently a third-year student in Business Information Systems (BIS) at University of Economics Ho Chi Minh City (UEH). I am interested in Business Intelligence, Data Analysis, and Business Analysis. </em></p>
 
 ### ✨About Me
