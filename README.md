@@ -11,6 +11,10 @@ I am eagerly looking forward to applying my skills and adding value to the rapid
 Right now, I'm deeply involved in projects centered around Analytics and Business Intelligence. 
 I'm enthusiastic about collaborating on stimulating analytics projects. Don't hesitate to contact me with your ideas!
 
+### ✨CV
+Check my CV at 👉🏻
+[![View CV](https://img.shields.io/badge/View_CV-Canva-a2d2ff?style=for-the-badge&logo=adobe)](https://www.canva.com/design/DAFHTl7FQ8Y/LhV1pFFzLP7ArCHiHNLd4A/view)
+
 ### ✨Contact
 Let's connect and explore opportunities together:
 - 📫 You can reach me via email at kieutrinhtran2212@gmail.com
