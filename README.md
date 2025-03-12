@@ -13,7 +13,7 @@ I'm enthusiastic about collaborating on stimulating analytics projects. Don't he
 
 ### ✨CV
 Check my CV at 👉🏻
-[![View CV](https://img.shields.io/badge/View_CV-Canva-a2d2ff?style=for-the-badge&logo=adobe)](https://www.canva.com/design/DAFHTl7FQ8Y/LhV1pFFzLP7ArCHiHNLd4A/view)
+[![View CV](https://img.shields.io/badge/View_CV-Canva-a2d2ff?style=for-the-badge&logo=adobe)](https://www.canva.com/design/DAFHTl7FQ8Y/cfBy1B2yKfk4JkfgQMgJaA/view?utm_content=DAFHTl7FQ8Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9212a2b581)
 
 ### ✨Contact
 Let's connect and explore opportunities together:
