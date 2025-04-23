@@ -17,7 +17,7 @@ Check my CV at 👉🏻
 
 ### ✨Contact
 Let's connect and explore opportunities together:
-- 📫 You can reach me via email at kieutrinhtran2212@gmail.com
+- 📫 You can reach me via email at kieutrinhtran.work@gmail.com
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kieutrinhtran/) <br><br>
 Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you!
 
