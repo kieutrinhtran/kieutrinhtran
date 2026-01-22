@@ -1,11 +1,6 @@
 ### <p align="center"> Hi there, I'm Trinh (Kirstin) Tran 👋
-<p align="center"><em> I'm currently a third-year student in Business Information Systems (BIS) at University of Economics Ho Chi Minh City (UEH). <br>I am interested in Business Intelligence, Data Analysis, and Business Analysis. </em></p>
-
-### ✨About Me
-I am an aspiring data analyst driven by the desire to make a meaningful contribution in this dynamic field.
-Despite being new to data analysis, I'm brimming with enthusiasm and a relentless thirst for knowledge. 
-My passion for unraveling insights from data has sparked a fire within me. 
-I am eagerly looking forward to applying my skills and adding value to the rapidly evolving landscape of data analysis.
+<!--### ✨About Me-->
+<p align="center"><em> Detail-oriented Data Analyst with a proven track record of delivering high-impact analytics solutions in the e-commerce sector. Successfully scaled data architectures by 100% and automated reporting workflows to save 90% of manual effort for department managers. An agile learner and proactive problem-solver dedicated to transforming complex data into strategic business value and fostering a self-service data culture. </em></p>
 
 ### ✨Interests
 Right now, I'm deeply involved in projects centered around Analytics and Business Intelligence. 
